@@ -1,0 +1,1 @@
+url_pritchi = 'https://aerostatica.ru/2018/01/07/660-pritchi/'
